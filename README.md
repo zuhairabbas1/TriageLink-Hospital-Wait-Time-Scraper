@@ -141,4 +141,4 @@ This will collect 2 data points in 30 minutes.
 ## Contact
 
 **Zuhair**  
-Mathematics Student, Queen's University  
+Student, Queen's University  
